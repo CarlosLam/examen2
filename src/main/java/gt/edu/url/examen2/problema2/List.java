@@ -1,6 +1,6 @@
-package gt.url.edu.demoestructuras.ds;
+package gt.edu.url.examen2.problema2;
 
-public interface List<E> extends Iterable<E>{
+public interface List<E>{
 
 	/**
 	 * Returns list elements count
